@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елизавета Иванова](https://up.htmlacademy.ru/javascript/20/user/888913).
-* Наставник: `Неизвестно`.
+* Наставник: [Лиза Иванова](https://up.htmlacademy.ru/javascript/20/user/1352477).
 
 ---
 
